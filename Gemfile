@@ -13,7 +13,7 @@ gem 'byebug'
 gem 'web-console', '~> 2.0'
 gem 'spring'
 # learn-rails
-gem 'foundation-rails'
+gem 'foundation-rails', '~> 5.5'
 gem 'gibbon'
 gem 'high_voltage'
 gem 'simple_form'
